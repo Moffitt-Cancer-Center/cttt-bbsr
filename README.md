@@ -16,7 +16,7 @@ This page provides information on presentations from the Clinical Trial Advancem
   
 **Impact of the Timing of Complete Remission and Allogeneic Transplantation on Estimates of Event-free Survival in Previously Untreated Acute Myeloid Leukemia (AML)**
 
-:pushpin: [notes from the talk](meetings/2025-01-09_event-free-survival/notes.md)
+:pushpin: [notes from the talk](meetings/2025-01-29_event-free-survival/notes.md)
 
 <br>
 :page_facing_up: Resources shared during/after the talk
