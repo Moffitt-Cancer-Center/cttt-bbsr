@@ -1,4 +1,4 @@
-:email: Michael Schell
+:email: **Michael Schell**
 
 - Here are some papers on the restricted mean survival time (RMST).  
 I recommend that this be included in all Moffitt clinical trials as something to be measured.  As a default, a 12 month end-time seems reasonable.  However, the PI of the protocol should select what time they think is best.  In a single-arm study, I don’t think there is any major problem with the end time choice.  If it is used for a comparison trial, the end time could matter considerably.
@@ -17,14 +17,14 @@ I recommend that this be included in all Moffitt clinical trials as something to
     - [What Price Kaplan-Meier?](Miller-1983-What%20Price%20Kaplan-Meier%201983.pdf)
 <hr>
 
-:email: Richie Reich
+:email: **Richie Reich**
 
 Shared a link that SAS can analyze RMST data 
 
-[Analyzing Restricted Mean Survival Time Using SAS/STAT](Analyzing%20estricted%20mean%20survival%20time%20using%20SAS_STAT.pdf)
+[Analyzing Restricted Mean Survival Time Using SAS/STAT](Analyzing%20restricted%20mean%20survival%20time%20using%20SAS_STAT.pdf)
 <hr>
 
-:email: Vivien Yin
+:email: **Vivien Yin**
 
 - Dr. L.J. Wei from Harvard has made significant contributions to RMST research. I had the opportunity to attend one of his talks at the Mayo Clinic, which I found particularly insightful. I’m attaching one of his works, “On the Restricted Mean Survival Time Curve in Survival Analysis”, which may be of interest.
 I wanted to mention that, RMST is a fundamental concept in survival analysis, extending beyond clinical trials. Its applications are relevant to all cancer studies where survival analysis is of interest, including retrospective observational cohort studies. In fact, I’d recommend first applying it to observational cohort studies to build a strong foundational understanding before boarder implementation.
