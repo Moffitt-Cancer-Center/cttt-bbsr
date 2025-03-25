@@ -1,1 +1,1 @@
-# clinical-trial-advancement-team-seminar
+# Clinical Trial Advancement Team seminar
