@@ -2,12 +2,12 @@
 
 This page provides information on presentations from the Clinical Trial Advancement Team seminar
 
----
+<hr width="30%">
 :spiral_calendar: every two months
 
 :desktop_computer: via Zoom
 
----
+<hr width="30%">
 
 ## Schedule
 
