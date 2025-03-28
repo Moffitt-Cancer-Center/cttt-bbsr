@@ -1,6 +1,6 @@
-# Clinical Trial Advancement Team seminar
+# Clinical Trial Advancement Team
 
-This page provides information on presentations from the Clinical Trial Advancement Team seminar
+This page provides information on presentations from the Clinical Trial Advancement Team 
 
 <hr width="30%">
 :spiral_calendar: every two months
