@@ -67,6 +67,6 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 **Introduction to Time To Event Endpoint with Competing Risks**
 
-:memo: [slides](meetings/2025-09-30_competing-risk/2025%Bio2%Introduciton%to%Time%To%Events%with%Competing%Risks.pdf)
+:memo: [slides](meetings/2025-09-30_competing-risk/2025%20Bio2%20Introduciton%20to%20Time%20To%20Events%20with%20Competing%20Risks.pdf)
 
 </details>
