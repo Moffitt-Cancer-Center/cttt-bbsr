@@ -69,4 +69,14 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 :memo: [slides](meetings/2025-09-30_competing-risk/2025%20Bio2%20Introduciton%20to%20Time%20To%20Events%20with%20Competing%20Risks.pdf)
 
+:pushpin: [notes from the talk](meetings/2025-09-30_competing-risk/notes.md)
+
+<br> :page_facing_up: References from the talk
+
+-   [A randomized phase II study to evaluate tacrolimus in combination with sirolimus or methotrexate after allogeneic hematopoietic cell transplantation](meetings/2025-09-30_competing-risk/Pidala-etal-2012-A%20randomized%20phase%20II%20study%20to%20evaluate%20tacrolimus.pdf)
+-   [Cumulative incidence in competing risks data and competing risks regression analysis](meetings/2025-09-30_competing-risk/Kim-2007-Cumulative%20Incidence%20in%20Competing%20Risks.pdf)
+-   [A Proportional Hazards Model for the Subdistribution of a Competing Risk](meetings/2025-09-30_competing-risk/Fine-Gray-1999-A%20Proportional%20Hazards%20Model%20for%20the%20Subdistribution%20of%20a%20Competing%20Risk.pdf)
+-   [A review of the use of time-varying covariates in the Fine-Gray subdistribution hazard competing risk regression model](https://github.com/Moffitt-Cancer-Center/cttt-bbsr/blob/main/meetings/2025-09-30_competing-risk/Austin-etal-2019-Areviewoftheuseoftime-varying%20covariates.pdf)
+-   [Secondary Neoplasms After Hematopoietic Cell Transplant for Sickle Cell Disease](meetings/2025-09-30_competing-risk/Eapen-etal-2023-Secondary%20Neoplasms%20After%20Hematopoietic%20Cell%20Transplant.pdf)
+
 </details>
