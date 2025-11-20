@@ -97,4 +97,19 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 <br> :page_facing_up: References from the talk
 
+- [Program to Perform Inverse Probability of Censoring Weighting (IPCW) Analysis - 1 Way Crossover (SAS codes)](meetings/2025-11-20_treatment-switching-01/case_study_1way_IPCW_clean.pdf)
+- [Program to Perform Inverse Probability of Censoring Weighting (IPCW) Analysis - 1 Way Crossover (SAS results)](meetings/2025-11-20_treatment-switching-01/case_study_1way_IPCW_clean-results.pdf)
+- [Program to Perform Marginal Structural Model (MSM) Analysis - 1 Way Crossover (SAS codes)](meetings/2025-11-20_treatment-switching-01/case_study_1way_MSM_clean.pdf)
+- [Program to Perform Marginal Structural Model (MSM) Analysis - 1 Way Crossover (SAS results)](meetings/2025-11-20_treatment-switching-01/case_study_1way_MSM_clean-results.pdf)
+- [Program to Perform Inverse Probability of Censoring Weighting (IPCW) Analysis - 2 Way Crossover (SAS codes)](meetings/2025-11-20_treatment-switching-01/case_study_2way_IPCW_clean.pdf)
+- [Program to Perform Inverse Probability of Censoring Weighting (IPCW) Analysis - 2 Way Crossover (SAS results)](meetings/2025-11-20_treatment-switching-01/case_study_2way_IPCW_clean-results.pdf)
+- [Program to Perform Marginal Structural Model (MSM) Analysis - 2 Way Crossover (SAS codes)](meetings/2025-11-20_treatment-switching-01/case_study_2way_MSM_clean.pdf)
+- [Program to Perform Marginal Structural Model (MSM) Analysis - 2 Way Crossover (SAS results)](meetings/2025-11-20_treatment-switching-01/case_study_2way_MSM_clean-results.pdf)
+- [Macro to calculate z-score and p-value from weighted Log-rank test](meetings/2025-11-20_treatment-switching-01/macro_adj_pvalue.pdf)
+- [Macro to plot adjusted KM](meetings/2025-11-20_treatment-switching-01/macro_km_plot.pdf)
+- [MSM and IPCW (R codes)](meetings/2025-11-20_treatment-switching-01/msm_ipcw.R)
+- [Application of marginal structural models for causal inference on the treatment effect for overall survival in randomized controlled trials with control arm patients switching to active intervention after disease progression](meetings/2025-11-20_treatment-switching-01/MSM_1waySwitchingManuscript.pdf)
+- [Bias and Type I error Control in Correcting Treatment Effect for Treatment Switching Using Marginal Structural Models in Phase III Oncology Trials](meetings/2025-11-20_treatment-switching-01/MSM_2waySwitchingManuscript.pdf)
+- [Moving towards best practice when using inverse probability of treatment weighting (IPTW) using the propensity score to estimate causal reatment effects in observational studies](meetings/2025-11-20_treatment-switching-01/Austin,%20Stuart,%202015_Moving%20towards%20best%20practice%20when%20using%20inverse%20probability%20of%20treatment%20weighting.pdf)
+
 </details>
