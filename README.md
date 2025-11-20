@@ -80,3 +80,21 @@ This page provides information on presentations from the Clinical Trial Advancem
 -   [Secondary Neoplasms After Hematopoietic Cell Transplant for Sickle Cell Disease](meetings/2025-09-30_competing-risk/Eapen-etal-2023-Secondary%20Neoplasms%20After%20Hematopoietic%20Cell%20Transplant.pdf)
 
 </details>
+
+<hr>
+
+<details>
+
+<summary>November 20, 2025: Biwei Cao & Wenyi Fan</summary>
+
+<br/>
+
+**Survival Analysis Methods Correcting for Treatment Switching Effects in RCTs: Theory and SAS/R Code (Part I)**
+
+:memo: [slides](meetings/2025-11-20_treatment-switching-01/Treatment_switching_PartI.pptx)
+
+:pushpin: [notes from the talk](meetings/2025-11-20_treatment-switching-01/notes.md)
+
+<br> :page_facing_up: References from the talk
+
+</details>
