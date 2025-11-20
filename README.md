@@ -91,7 +91,7 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 **Survival Analysis Methods Correcting for Treatment Switching Effects in RCTs: Theory and SAS/R Code (Part I)**
 
-:memo: [slides](meetings/2025-11-20_treatment-switching-01/Treatment_switching_PartI.pptx)
+:memo: [slides](meetings/2025-11-20_treatment-switching-01/Treatment_switching_PartI.pdf)
 
 :pushpin: [notes from the talk](meetings/2025-11-20_treatment-switching-01/notes.md)
 
