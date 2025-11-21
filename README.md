@@ -14,7 +14,7 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 <details>
 
-<summary>January 29, 2025: Vivien Yin</summary>
+<summary>January 29, 2025: Vivien Yin - Event-free survival</summary>
 
 <br>
 
@@ -47,13 +47,17 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 <details>
 
-<summary>April 9, 2025: Dung-Tsa Chen</summary>
+<summary>April 9, 2025: Dung-Tsa Chen - Adverse event</summary>
+
+<br>
+
+**A Hidden Treasure of Data Science Adverse Event (AE)**
 
 :memo: [slides](meetings/2025-04-09_adverse-events/Bio2_Clinical_Trial_Methodology_development_2025_AE.pdf)
 
-<br/>
+:arrow_forward: [play recording](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28e4d229-3634-465b-ad1a-b2ba0100544e)
 
-**Adverse Events**
+<br/>
 
 </details>
 
@@ -61,7 +65,7 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 <details>
 
-<summary>September 30, 2025: Jongphil Kim</summary>
+<summary>September 30, 2025: Jongphil Kim - Competing risks</summary>
 
 <br/>
 
@@ -85,7 +89,7 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 <details>
 
-<summary>November 20, 2025: Biwei Cao & Wenyi Fan</summary>
+<summary>November 20, 2025: Biwei Cao & Wenyi Fan - Survival anlaysis for treatment switching in RCTs</summary>
 
 <br/>
 
@@ -113,5 +117,18 @@ This page provides information on presentations from the Clinical Trial Advancem
 - [Application of marginal structural models for causal inference on the treatment effect for overall survival in randomized controlled trials with control arm patients switching to active intervention after disease progression](meetings/2025-11-20_treatment-switching-01/MSM_1waySwitchingManuscript.pdf)
 - [Bias and Type I error Control in Correcting Treatment Effect for Treatment Switching Using Marginal Structural Models in Phase III Oncology Trials](meetings/2025-11-20_treatment-switching-01/MSM_2waySwitchingManuscript.pdf)
 - [Moving towards best practice when using inverse probability of treatment weighting (IPTW) using the propensity score to estimate causal reatment effects in observational studies](meetings/2025-11-20_treatment-switching-01/Austin,%20Stuart,%202015_Moving%20towards%20best%20practice%20when%20using%20inverse%20probability%20of%20treatment%20weighting.pdf)
+
+</details>
+
+<hr>
+
+<details>
+
+<summary>December 11, 2025: Biwei Cao & Wenyi Fan - Survival anlaysis for treatment switching in RCTs</summary>
+
+<br/>
+
+**Survival Analysis Methods Correcting for Treatment Switching Effects in RCTs: Theory and SAS/R Code (Part II)**
+
 
 </details>
