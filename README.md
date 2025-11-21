@@ -1,4 +1,4 @@
-# Clinical Trial Advancement Team
+# Clinical Trial Think Tank
 
 This page provides information on presentations from the Clinical Trial Advancement Team
 
