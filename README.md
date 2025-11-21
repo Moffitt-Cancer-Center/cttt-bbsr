@@ -93,6 +93,8 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 :memo: [slides](meetings/2025-11-20_treatment-switching-01/Treatment_switching_PartI.pdf)
 
+:arrow_forward: [play recording](https://moffitt.hosted.panopto.com/Panopto/Pages/)
+
 :pushpin: [notes from the talk](meetings/2025-11-20_treatment-switching-01/notes.md)
 
 <br> :page_facing_up: References from the talk
