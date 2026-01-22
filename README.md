@@ -142,6 +142,8 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 - [Parametric survival analysis and taxonomy of hazard functions for the generalized gamma distribution](meetings/2026-01-22_treatment-switching-02/Cox%2C%20Chu%2C%20Schneider%2C%20Munoz%2C%202007_Parametric%20survival%20analysis%20and%20taxonomy%20of%20hazard%20functions.pdf)
 
+- [R code for RPSFTM](meetings/2026-01-22_treatment-switching-02/R%20code%20for%20RPSFTM.R)
 
+- [R code for TSE](meetings/2026-01-22_treatment-switching-02/R%20code%20for%20tse.R)
 
 </details>
