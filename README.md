@@ -130,16 +130,18 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 **Survival Analysis Methods Correcting for Treatment Switching Effects in RCTs: Theory and SAS/R Code (Part II)**
 
-:memo: [slides](meetings/2026-01-22_treatment-switching-02/Treatment_switching_partII.pptx.pdf)
+:memo: [slides](meetings/2026-01-22_treatment-switching-02/Treatment_switching_partII.pdf)
 
 :arrow_forward: [play recording](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08d57080-c872-45be-87c7-b3d80120e851)
 
-:pushpin: [notes from the talk](meetings/2026-01-22_treatment-switching-01/notes.md)
+:pushpin: [notes from the talk](meetings/2026-01-22_treatment-switching-02/notes.md)
 
 <br> :page_facing_up: References from the talk
 
-- [Improved survival modeling in cancer research using a reduced piecewise exponential approach](meetings/2026-01-22_treatment-switching-01/HanSchellKim_RPEXE2014.pdf)
+- [Improved survival modeling in cancer research using a reduced piecewise exponential approach](meetings/2026-01-22_treatment-switching-02/HanSchellKim_RPEXE2014.pdf)
 
-- [Parametric survival analysis and taxonomy of hazard functions for the generalized gamma distribution](Cox,%Chu,%Schneider,%Munoz,%2007_Parametric%survival%analysis%and%taxonomy%of%hazard%functions.pdf)
+- [Parametric survival analysis and taxonomy of hazard functions for the generalized gamma distribution](meetings/2026-01-22_treatment-switching-02/Cox%2C%20Chu%2C%20Schneider%2C%20Munoz%2C%202007_Parametric%20survival%20analysis%20and%20taxonomy%20of%20hazard%20functions.pdf)
+
+
 
 </details>
