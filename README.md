@@ -124,11 +124,22 @@ This page provides information on presentations from the Clinical Trial Advancem
 
 <details>
 
-<summary>December 11, 2025: Biwei Cao & Wenyi Fan - Survival anlaysis for treatment switching in RCTs</summary>
+<summary>January 22, 2026: Biwei Cao & Wenyi Fan - Survival anlaysis for treatment switching in RCTs</summary>
 
 <br/>
 
 **Survival Analysis Methods Correcting for Treatment Switching Effects in RCTs: Theory and SAS/R Code (Part II)**
 
+:memo: [slides](meetings/2026-01-22_treatment-switching-02/Treatment_switching_partII.pptx.pdf)
+
+:arrow_forward: [play recording](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08d57080-c872-45be-87c7-b3d80120e851)
+
+:pushpin: [notes from the talk](meetings/2026-01-22_treatment-switching-01/notes.md)
+
+<br> :page_facing_up: References from the talk
+
+- [Improved survival modeling in cancer research using a reduced piecewise exponential approach](meetings/2026-01-22_treatment-switching-01/HanSchellKim_RPEXE2014.pdf)
+
+- [Parametric survival analysis and taxonomy of hazard functions for the generalized gamma distribution](Cox,%Chu,%Schneider,%Munoz,%2007_Parametric%survival%analysis%and%taxonomy%of%hazard%functions.pdf)
 
 </details>

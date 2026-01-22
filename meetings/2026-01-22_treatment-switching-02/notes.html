@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>readme</title>
+<title>notes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,16 +23,16 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="README_files/libs/clipboard/clipboard.min.js"></script>
-<script src="README_files/libs/quarto-html/quarto.js"></script>
-<script src="README_files/libs/quarto-html/popper.min.js"></script>
-<script src="README_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="README_files/libs/quarto-html/anchor.min.js"></script>
-<link href="README_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="README_files/libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="README_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="README_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="README_files/libs/bootstrap/bootstrap-1bc8a17f135ab3d594c857e9f48e611b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="notes_files/libs/clipboard/clipboard.min.js"></script>
+<script src="notes_files/libs/quarto-html/quarto.js"></script>
+<script src="notes_files/libs/quarto-html/popper.min.js"></script>
+<script src="notes_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="notes_files/libs/quarto-html/anchor.min.js"></script>
+<link href="notes_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="notes_files/libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="notes_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="notes_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="notes_files/libs/bootstrap/bootstrap-1bc8a17f135ab3d594c857e9f48e611b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -46,111 +46,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="clinical-trial-think-tank" class="level1">
-<h1>Clinical Trial Think Tank</h1>
-<p>This page provides information on presentations from the Clinical Trial Advancement Team</p>
-<hr width="30%">
-<p>:spiral_calendar: every two months</p>
-<p>:desktop_computer: via Zoom</p>
-<hr width="30%">
-<section id="schedule" class="level2">
-<h2 class="anchored" data-anchor-id="schedule">Schedule</h2>
-<details>
-<summary>
-January 29, 2025: Vivien Yin - Event-free survival
-</summary>
-<p><br></p>
-<p><strong>Impact of the Timing of Complete Remission and Allogeneic Transplantation on Estimates of Event-free Survival in Previously Untreated Acute Myeloid Leukemia (AML)</strong></p>
-<p>:memo: <a href="meetings/2025-01-29_event-free-survival/ASH%20AML%20endpoint_CT%20seminar_01292025.pdf">slides</a></p>
-<p>:arrow_forward: <a href="https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72f719e4-5bc0-495d-b686-b274013dd5c4">play recording</a></p>
-<p>:pushpin: <a href="meetings/2025-01-29_event-free-survival/notes.md">notes from the talk</a></p>
-<p><br> :page_facing_up: Resources shared during/after the talk</p>
+<p>:email: <strong>Michael Schell</strong></p>
+<p>Attached is a paper that I showed at yesterday’s Clinical Trial Think Tank.</p>
+<p>The issue was whether the Weibull distribution is a reasonable model for cancer survival data. My claim is that it is not (unless it is also exponentially distributed). Figure 2 shows a 2-parameter generalizedgamma modeling graph shown in the Christopher Cox et al paper (also attached). Our figure 2 is a modification of their figure 1, with modeling results of SEER data for four different cancers at three different stages. The data show that they are closestto the ammag distribution fit (the curvy descending line, given the name “gamma” spelled backwards due to its reciprocal relationship to a gamma distribution, which the straight line with a slope of 1) or to the lognormal fit (the dot-dash line with shapeparameter = 0). The Weibull model, with shape parameter = 1 is not particularly close to the data (which an overlaid plot would dramatically show).</p>
 <ul>
-<li><a href="meetings/2025-01-29_event-free-survival/A'Hern-2016-Restricted%20mean%20survival%20time.pdf">Restricted Mean Survival Time: An Obligatory End Point for Time-to-Event Analysis in Cancer Trials?</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Analyzing%20estricted%20mean%20survival%20time%20using%20SAS_STAT.pdf">Analyzing Restricted Mean Survival Time Using SAS/STAT</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Meier-etal-2004-The%20Price%20of%20Kaplan-Meier.pdf">The Price of Kaplan–Meier</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Miller-1983-What%20Price%20Kaplan-Meier%201983.pdf">What Price Kaplan-Meier?</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Mukhopadhyay-2022-Log-rank%20test%20vs%20MaxCombo%20and%20difference%20in%20restricted%20mean%20survival%20time%20tests.pdf">Log-Rank Test vs MaxCombo and Difference in Restricted Mean Survival Time Tests for Comparing Survival Under Nonproportional Hazards in Immuno-oncology Trials A Systematic Review and Meta-analysis</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Pak-etal-2017-Interpretability%20of%20cancer%20clinical%20trial%20results%20using%20restricted%20mean%20survival%20time.pdf">Interpretability of Cancer Clinical Trial Results Using Restricted Mean Survival Time as an Alternative to the Hazard Ratio</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Royston-Parmar-2013-Restricted%20mean%20survival%20time.pdf">Restricted mean survival time: an alternative to the hazard ratio for the design and analysis of randomized trials with a time-to-event outcome</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Royston-Parmar-2011-The%20use%20of%20restricted%20mean%20survival%20time.pdf">The use of restricted mean survival time to estimate the treatment effect in randomized clinical trials when the proportional hazards assumption is in doubt</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Tian-etal-2020-On%20the%20empirical%20choice%20of%20the%20time%20window%20for%20restricted%20mean%20survival%20time.pdf">On the empirical choice of the time window for restricted mean survival time</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Wang-etal-2019-Correlation%20of%20Milestone%20Restricted%20Mean%20Survival%20Time%20Ratio%20to%20Overall%20Survival.pdf">Correlation of Milestone Restricted Mean Survival Time Ratio With Overall Survival Hazard Ratio in Randomized Clinical Trials of Immune Checkpoint Inhibitors</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Zhao-etal-2016-On%20the%20restricted%20mean%20survival%20time%20curve%20in%20survival%20analysis.pdf">On the Restricted Mean Survival Time Curve in Survival Analysis</a></li>
-<li><a href="meetings/2025-01-29_event-free-survival/Zhao-etal-2020-On%20the%20Restricted%20Mean%20Survival%20Time%20Curve%20Survival%20Analysis.pdf">On the Restricted Mean Survival Time Curve Survival Analysis</a></li>
+<li><p><a href="meetings/2026-01-22_treatment-switching-01/HanSchellKim_RPEXE2014.pdf">Improved survival modeling in cancer research using a reduced piecewise exponential approach</a></p></li>
+<li><p><a href="Cox,%Chu,%Schneider,%Munoz,%2007_Parametric%survival%analysis%and%taxonomy%of%hazard%functions%for%the%generalized%gamma%distribution.pdf">Parametric survival analysis and taxonomy of hazard functions for the generalized gamma distribution</a></p></li>
 </ul>
-</details>
-<hr>
-<details>
-<summary>
-April 9, 2025: Dung-Tsa Chen - Adverse event
-</summary>
-<p><br></p>
-<p><strong>A Hidden Treasure of Data Science Adverse Event (AE)</strong></p>
-<p>:memo: <a href="meetings/2025-04-09_adverse-events/Bio2_Clinical_Trial_Methodology_development_2025_AE.pdf">slides</a></p>
-<p>:arrow_forward: <a href="https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28e4d229-3634-465b-ad1a-b2ba0100544e">play recording</a></p>
-<p><br></p>
-</details>
-<hr>
-<details>
-<summary>
-September 30, 2025: Jongphil Kim - Competing risks
-</summary>
-<p><br></p>
-<p><strong>Introduction to Time To Event Endpoint with Competing Risks</strong></p>
-<p>:memo: <a href="meetings/2025-09-30_competing-risk/2025%20Bio2%20Introduciton%20to%20Time%20To%20Events%20with%20Competing%20Risks.pdf">slides</a></p>
-<p>:pushpin: <a href="meetings/2025-09-30_competing-risk/notes.md">notes from the talk</a></p>
-<p><br> :page_facing_up: References from the talk</p>
-<ul>
-<li><a href="meetings/2025-09-30_competing-risk/Pidala-etal-2012-A%20randomized%20phase%20II%20study%20to%20evaluate%20tacrolimus.pdf">A randomized phase II study to evaluate tacrolimus in combination with sirolimus or methotrexate after allogeneic hematopoietic cell transplantation</a></li>
-<li><a href="meetings/2025-09-30_competing-risk/Kim-2007-Cumulative%20Incidence%20in%20Competing%20Risks.pdf">Cumulative incidence in competing risks data and competing risks regression analysis</a></li>
-<li><a href="meetings/2025-09-30_competing-risk/Fine-Gray-1999-A%20Proportional%20Hazards%20Model%20for%20the%20Subdistribution%20of%20a%20Competing%20Risk.pdf">A Proportional Hazards Model for the Subdistribution of a Competing Risk</a></li>
-<li><a href="https://github.com/Moffitt-Cancer-Center/cttt-bbsr/blob/main/meetings/2025-09-30_competing-risk/Austin-etal-2019-Areviewoftheuseoftime-varying%20covariates.pdf">A review of the use of time-varying covariates in the Fine-Gray subdistribution hazard competing risk regression model</a></li>
-<li><a href="meetings/2025-09-30_competing-risk/Eapen-etal-2023-Secondary%20Neoplasms%20After%20Hematopoietic%20Cell%20Transplant.pdf">Secondary Neoplasms After Hematopoietic Cell Transplant for Sickle Cell Disease</a></li>
-</ul>
-</details>
-<hr>
-<details>
-<summary>
-November 20, 2025: Biwei Cao &amp; Wenyi Fan - Survival anlaysis for treatment switching in RCTs
-</summary>
-<p><br></p>
-<p><strong>Survival Analysis Methods Correcting for Treatment Switching Effects in RCTs: Theory and SAS/R Code (Part I)</strong></p>
-<p>:memo: <a href="meetings/2025-11-20_treatment-switching-01/Treatment_switching_PartI.pdf">slides</a></p>
-<p>:arrow_forward: <a href="https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=727f2c2b-87de-4291-a839-b39b011ebccf">play recording</a></p>
-<p>:pushpin: <a href="meetings/2025-11-20_treatment-switching-01/notes.md">notes from the talk</a></p>
-<p><br> :page_facing_up: References from the talk</p>
-<ul>
-<li><a href="meetings/2025-11-20_treatment-switching-01/case_study_1way_IPCW_clean.pdf">Program to Perform Inverse Probability of Censoring Weighting (IPCW) Analysis - 1 Way Crossover (SAS codes)</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/case_study_1way_IPCW_clean-results.pdf">Program to Perform Inverse Probability of Censoring Weighting (IPCW) Analysis - 1 Way Crossover (SAS results)</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/case_study_1way_MSM_clean.pdf">Program to Perform Marginal Structural Model (MSM) Analysis - 1 Way Crossover (SAS codes)</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/case_study_1way_MSM_clean-results.pdf">Program to Perform Marginal Structural Model (MSM) Analysis - 1 Way Crossover (SAS results)</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/case_study_2way_IPCW_clean.pdf">Program to Perform Inverse Probability of Censoring Weighting (IPCW) Analysis - 2 Way Crossover (SAS codes)</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/case_study_2way_IPCW_clean-results.pdf">Program to Perform Inverse Probability of Censoring Weighting (IPCW) Analysis - 2 Way Crossover (SAS results)</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/case_study_2way_MSM_clean.pdf">Program to Perform Marginal Structural Model (MSM) Analysis - 2 Way Crossover (SAS codes)</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/case_study_2way_MSM_clean-results.pdf">Program to Perform Marginal Structural Model (MSM) Analysis - 2 Way Crossover (SAS results)</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/macro_adj_pvalue.pdf">Macro to calculate z-score and p-value from weighted Log-rank test</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/macro_km_plot.pdf">Macro to plot adjusted KM</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/msm_ipcw.R">MSM and IPCW (R codes)</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/MSM_1waySwitchingManuscript.pdf">Application of marginal structural models for causal inference on the treatment effect for overall survival in randomized controlled trials with control arm patients switching to active intervention after disease progression</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/MSM_2waySwitchingManuscript.pdf">Bias and Type I error Control in Correcting Treatment Effect for Treatment Switching Using Marginal Structural Models in Phase III Oncology Trials</a></li>
-<li><a href="meetings/2025-11-20_treatment-switching-01/Austin,%20Stuart,%202015_Moving%20towards%20best%20practice%20when%20using%20inverse%20probability%20of%20treatment%20weighting.pdf">Moving towards best practice when using inverse probability of treatment weighting (IPTW) using the propensity score to estimate causal reatment effects in observational studies</a></li>
-</ul>
-</details>
-<hr>
-<details>
-<summary>
-January 22, 2026: Biwei Cao &amp; Wenyi Fan - Survival anlaysis for treatment switching in RCTs
-</summary>
-<p><br></p>
-<p><strong>Survival Analysis Methods Correcting for Treatment Switching Effects in RCTs: Theory and SAS/R Code (Part II)</strong></p>
-<p>:memo: <a href="meetings/2026-01-22_treatment-switching-02/Treatment_switching_partII.pptx.pdf">slides</a></p>
-<p>:arrow_forward: <a href="https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08d57080-c872-45be-87c7-b3d80120e851">play recording</a></p>
-<p>:pushpin: <a href="meetings/2026-01-22_treatment-switching-01/notes.md">notes from the talk</a></p>
-<p><br> :page_facing_up: References from the talk</p>
-</details>
-</section>
-</section>
 
 </main>
 <!-- /main column -->
